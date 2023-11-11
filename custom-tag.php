@@ -1,3 +1,4 @@
+<?php
 add_action( 'wpcf7_init', function(){
   //@see more features https://contactform7.com/2022/12/16/form-tag-features/
   wpcf7_add_form_tag( ['my-custom-tag', 'my-custom-tag*'], 'wp360_my_custom_tag_handler', true );
