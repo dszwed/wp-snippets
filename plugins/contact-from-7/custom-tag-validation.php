@@ -5,6 +5,8 @@
 add_filter( 'wpcf7_validate_my_custom_tag*', 'wp360_my_custom_tag_validation_handler'], 10, 2 );
 
 /**
+ * My custom tag validation handler
+ *
  * @param \WPCF7_Validation $result
  * @param \WPCF7_FormTag $tag
  * @return \WPCF7_Validation
