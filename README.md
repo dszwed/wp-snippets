@@ -6,5 +6,5 @@ Code snippets around WordPress ecosystem - WP core, plugins, themes
 - [MU Plugins](https://github.com/iworks/mu-plugins)
 
 ## Other websites with snippets
-- [Woo snipets](https://www.businessbloomer.com/blog/)
+- [Woo snippets](https://www.businessbloomer.com/blog/)
 - [Snippets by Bill Erickson](https://www.billerickson.net/code/)
