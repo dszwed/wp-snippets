@@ -1,5 +1,5 @@
 <?php
-//Add an additional sitemap to Yoast sitemaps
+//Add an extra sitemap from file to Yoast sitemaps
 
 add_filter( 'wpseo_sitemap_index', function(string $sitemap_content): string {
 
