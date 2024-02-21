@@ -2,7 +2,7 @@
 /**
  *  Validate if my custom field is populated
  */
-add_filter( 'wpcf7_validate_my_custom_tag*', 'wp360_my_custom_tag_validation_handler'], 10, 2 );
+add_filter( 'wpcf7_validate_my_custom_tag*', 'wp360_my_custom_tag_validation_handler', 10, 2 );
 
 /**
  * My custom tag validation handler
