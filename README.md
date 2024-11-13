@@ -8,4 +8,4 @@ Code snippets around WordPress ecosystem - WP core, plugins, themes
 ## Other websites with snippets
 - [Woo snippets](https://www.businessbloomer.com/blog/)
 - [Snippets by Bill Erickson](https://www.billerickson.net/code/)
-- [SnippetNest] (https://snippetnest.com/)
+- [SnippetNest](https://snippetnest.com/)
