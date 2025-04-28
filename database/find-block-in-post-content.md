@@ -1,5 +1,6 @@
 ```
-SELECT * FROM 'wp_posts' WHERE 'post_content' LIKE '%core/image%' AND 'post_status' = 'publish' AND 'post_type' IN ('post','page')
+SELECT * FROM 'wp_posts' 
+WHERE 'post_content' LIKE '%core/image%' AND 'post_status' = 'publish' AND 'post_type' IN ('post','page')
 ```
 
 With URL
